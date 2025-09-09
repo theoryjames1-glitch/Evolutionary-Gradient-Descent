@@ -1,9 +1,5 @@
 # Evolutionary-Gradient-Descent
 
-Want a crisp way to say that? Here are a few options you can drop into a README, paper, or slide.
-
-# Short tagline
-
 **Evolutionary Gradient Descent (EGD):** SGD that periodically explores via evolutionary mutations—CPU-paged so memory stays small.
 
 # One-liner
